@@ -1,0 +1,16 @@
+python-telegram-bot==20.7
+aiohttp
+psutil
+Faker
+requests
+beautifulsoup4
+cloudscraper
+httpx
+pytz
+asyncpg
+pyrogram==2.0.106
+tgcrypto==1.2.5
+aiofiles==23.2.1
+fastapi
+uvicorn
+pydantic
